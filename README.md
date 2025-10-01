@@ -28,7 +28,7 @@
 ## **📌 Overview**
 **LLM Insight** is a **physics-inspired framework** for **visual debugging of Large Language Models (LLMs)**. It treats **tokens as particles influenced by semantic and attention forces**, enabling **real-time visualization of reasoning patterns, contradictions, and hallucinations**.
 
-This project was developed as part of **Microsoft Student Ambassador Project Demo Day** by **Team XAI-Phy** (Shakthi Lakmal & Poorna Madhushan).
+This project was developed as part of **Microsoft Student Ambassador AI Project** by **Team XAI-Phy** (Shakthi Lakmal & Poorna Madhushan).
 
 ![1](screenshots/slide_1.png)
 
@@ -87,6 +87,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
