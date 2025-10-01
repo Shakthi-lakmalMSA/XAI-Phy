@@ -9,7 +9,7 @@
 
 This project was developed as part of **Microsoft Student Ambassador Project Demo Day** by **Team XAI-Phy** (Shakthi Lakmal & Poorna Madhushan).
 
-![Slide 1](screenshots/slide_1.png)
+![1](screenshots/slide_1.png)
 
 ---
 
@@ -20,7 +20,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
   - Where contradictions or hallucinations appear.
 - Lack of **visual debugging tools** → makes trust & adoption difficult.
 
-![Slide 2](screenshots/slide_2.png)
+![2](screenshots/slide_2.png)
 
 ---
 
@@ -35,7 +35,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
   - Hallucination mapping.
 - **Supports Multiple Models**: GPT-2, BERT, DistilBERT, Sentence Transformers.
 
-![Slide 3](screenshots/slide_3.png)
+![3](screenshots/slide_3.png)
 
 ---
 
@@ -49,12 +49,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 ✔ **Interactive UI** with model selection (Colab/Jupyter).
 
 ---
+Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
 
-## **📷 Presentation Screenshots**
-![Slide 4](screenshots/slide_4.png)
-![Slide 5](screenshots/slide_5.png)
-![Slide 6](screenshots/slide_6.png)
-![Slide 7](screenshots/slide_7.png)
-![Slide 8](screenshots/slide_8.png)
 
 
