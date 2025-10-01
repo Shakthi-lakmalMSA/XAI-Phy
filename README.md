@@ -2,8 +2,18 @@
 ![Project Banner](https://img.shields.io/badge/Explainable%20AI-Physics%20Inspired-blue)
 **Version:** 10.0 | **Features:** GIF Animations, Contradiction Detection, Multi-Model Support
 
-![token_dynamics](https://github.com/user-attachments/assets/460b26bf-2f02-4003-9f19-de4fdb49c2b8)
+!Example : The patient presents with severe headache, high fever, and persistent nausea indicating possible infection
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/72ad2772-7826-4c82-bb7e-1df34b4f6dad" alt="Alt text for the PNG image" width="49%">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the GIF image" width="49%">
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -70,6 +80,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
