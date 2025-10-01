@@ -14,7 +14,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 ---
 ## 🌐 Website Coming Soon
 ![XAIPhy Website Preview] 
-
+!XAI-Phy website preview.png
 👉 **Visit (Coming Soon):** https://icy-island-0fa2fc70f.1.azurestaticapps.net/
 
 ## **🎯 Problem Statement**
@@ -54,6 +54,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
