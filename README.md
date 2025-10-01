@@ -12,8 +12,9 @@
   </thead>
   <tbody>
     <tr>
+
       <td><b>Example 1:</b> The patient presents with severe headache, high fever, and persistent nausea indicating possible infection.</td>
-      <td><img src="https://github.com/user-attachments/assets/d07fbc29-28a7-47dd-9d82-02fc079621dd" alt="Alt text for the first PNG image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/e9eaf6bd-25c7-4ee1-b258-c1039ad4f2a5" alt="Alt text for the first PNG image" width="100%"></td>
       <td><img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the first GIF image" width="100%"></td>
     </tr>
     <tr>
@@ -92,6 +93,7 @@ This project was developed as part of **Microsoft Student Ambassador AI Project*
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
