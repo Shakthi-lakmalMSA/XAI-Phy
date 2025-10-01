@@ -10,11 +10,12 @@
 This project was developed as part of **Microsoft Student Ambassador Project Demo Day** by **Team XAI-Phy** (Shakthi Lakmal & Poorna Madhushan).
 
 ![1](screenshots/slide_1.png)
+<img width="1920" height="872" alt="XAI-Phy website preview" src="https://github.com/user-attachments/assets/c40ea801-bd58-443e-ad5a-ced3847ea554" />
 
 ---
 ## 🌐 Website Coming Soon
 ![XAIPhy Website Preview] 
-![https://github.com/Shakthi-lakmalMSA/XAI-Phy/blob/main/XAI-Phy%20website%20preview.png]
+
 👉 **Visit (Coming Soon):** https://icy-island-0fa2fc70f.1.azurestaticapps.net/
 
 ## **🎯 Problem Statement**
@@ -54,6 +55,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
