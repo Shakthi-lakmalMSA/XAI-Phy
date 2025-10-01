@@ -2,6 +2,8 @@
 ![Project Banner](https://img.shields.io/badge/Explainable%20AI-Physics%20Inspired-blue)
 **Version:** 10.0 | **Features:** GIF Animations, Contradiction Detection, Multi-Model Support
 
+![Uploading token_dynamics.gif…]()
+
 ---
 
 ## **📌 Overview**
@@ -66,6 +68,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
