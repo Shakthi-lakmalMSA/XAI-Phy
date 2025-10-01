@@ -13,13 +13,18 @@
   <tbody>
     <tr>
       <td><b>Example 1:</b> The patient presents with severe headache, high fever, and persistent nausea indicating possible infection.</td>
-      <td><img src="https://github.com/user-attachments/assets/72ad2772-7826-4c82-bb7e-1df34b4f6dad" alt="Alt text for the first PNG image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/d07fbc29-28a7-47dd-9d82-02fc079621dd" alt="Alt text for the first PNG image" width="100%"></td>
       <td><img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the first GIF image" width="100%"></td>
     </tr>
     <tr>
       <td><b>Example 2:</b> Napoleon Bonaparte invented the telephone in 1492 while sailing to discover electricity on the moon.</td>
       <td><img src="https://github.com/user-attachments/assets/2e507460-2928-4252-83aa-dc0d68e4506c" alt="Alt text for the second PNG image" width="100%"></td>
       <td><img src="https://github.com/user-attachments/assets/27c2dd61-c53a-464f-adbd-7b5a3dd292cd" alt="Alt text for the second GIF image" width="100%"></td>
+    </tr>
+        <tr>
+      <td><b>Example 2 with v.1.2:</b> Napoleon Bonaparte invented the telephone in 1492 while sailing to discover electricity on the moon.</td>
+      <td><img src="https://github.com/user-attachments/assets/a6c68668-ff72-45be-bee0-83f8a01db8f5" alt="Alt text for the second PNG image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/96382c1b-8984-4e6f-b874-34996005e08a" alt="Alt text for the second GIF image" width="100%"></td>
     </tr>
   </tbody>
 </table>
@@ -87,6 +92,7 @@ This project was developed as part of **Microsoft Student Ambassador AI Project*
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
