@@ -12,20 +12,19 @@
   </thead>
   <tbody>
     <tr>
-
       <td><b>Example 1:</b> The patient presents with severe headache, high fever, and persistent nausea indicating possible infection.</td>
-      <td><img src="https://github.com/user-attachments/assets/e9eaf6bd-25c7-4ee1-b258-c1039ad4f2a5" alt="Alt text for the first PNG image" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the first GIF image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/e9eaf6bd-25c7-4ee1-b258-c1039ad4f2a5" alt="Static image showing a patient's chart" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Dynamic animation of medical data" width="100%"></td>
     </tr>
     <tr>
       <td><b>Example 2:</b> Napoleon Bonaparte invented the telephone in 1492 while sailing to discover electricity on the moon.</td>
-      <td><img src="https://github.com/user-attachments/assets/2e507460-2928-4252-83aa-dc0d68e4506c" alt="Alt text for the second PNG image" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/27c2dd61-c53a-464f-adbd-7b5a3dd292cd" alt="Alt text for the second GIF image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/2e507460-2928-4252-83aa-dc0d68e4506c" alt="Image related to a historical inaccuracy" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/27c2dd61-c53a-464f-adbd-7b5a3dd292cd" alt="Animated GIF related to a historical inaccuracy" width="100%"></td>
     </tr>
-        <tr>
+    <tr>
       <td><b>Example 2 with v.1.2:</b> Napoleon Bonaparte invented the telephone in 1492 while sailing to discover electricity on the moon.</td>
-      <td><img src="https://github.com/user-attachments/assets/a6c68668-ff72-45be-bee0-83f8a01db8f5" alt="Alt text for the second PNG image" width="100%"></td>
-      <td><img src="https://github.com/user-attachments/assets/96382c1b-8984-4e6f-b874-34996005e08a" alt="Alt text for the second GIF image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/a6c68668-ff72-45be-bee0-83f8a01db8f5" alt="Updated image for the historical example" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/96382c1b-8984-4e6f-b874-34996005e08a" alt="Updated GIF for the historical example" width="100%"></td>
     </tr>
   </tbody>
 </table>
