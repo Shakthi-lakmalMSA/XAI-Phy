@@ -2,21 +2,28 @@
 ![Project Banner](https://img.shields.io/badge/Explainable%20AI-Physics%20Inspired-blue)
 **Version:** 10.0 | **Features:** GIF Animations, Contradiction Detection, Multi-Model Support
 
-!Example : The patient presents with severe headache, high fever, and persistent nausea indicating possible infection
-
 <table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/72ad2772-7826-4c82-bb7e-1df34b4f6dad" alt="Alt text for the PNG image" width="49%">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the GIF image" width="49%">
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="50%">Description</th>
+      <th width="25%">Image 1</th>
+      <th width="25%">Image 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Example 1:</b> The patient presents with severe headache, high fever, and persistent nausea indicating possible infection.</td>
+      <td><img src="https://github.com/user-attachments/assets/72ad2772-7826-4c82-bb7e-1df34b4f6dad" alt="Alt text for the first PNG image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/e05ca3f9-e1e0-4c00-9bd5-dd7c65362295" alt="Alt text for the first GIF image" width="100%"></td>
+    </tr>
+    <tr>
+      <td><b>Example 2:</b> Napoleon Bonaparte invented the telephone in 1492 while sailing to discover electricity on the moon.</td>
+      <td><img src="https://github.com/user-attachments/assets/2e507460-2928-4252-83aa-dc0d68e4506c" alt="Alt text for the second PNG image" width="100%"></td>
+      <td><img src="https://github.com/user-attachments/assets/27c2dd61-c53a-464f-adbd-7b5a3dd292cd" alt="Alt text for the second GIF image" width="100%"></td>
+    </tr>
+  </tbody>
 </table>
 
-
----
 
 ## **📌 Overview**
 **LLM Insight** is a **physics-inspired framework** for **visual debugging of Large Language Models (LLMs)**. It treats **tokens as particles influenced by semantic and attention forces**, enabling **real-time visualization of reasoning patterns, contradictions, and hallucinations**.
@@ -80,6 +87,7 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
