@@ -53,8 +53,20 @@ This project was developed as part of **Microsoft Student Ambassador Project Dem
 ✔ **Batch Processing** for multiple sentences.
 ✔ **Interactive UI** with model selection (Colab/Jupyter/Azure ML notebook).
 
+## **✅ 🛠 Technologies Used**
+
+✔ **Programming Language: Python
+✔ **Frameworks: PyTorch, Hugging Face Transformers
+✔ **Visualization: Matplotlib, Seaborn, Plotly
+✔ **Deployment & Hosting:
+ ✔ **Azure Web Apps (for hosting the website)
+ ✔ **Azure Blob Storage (for storing visualizations and assets)
+ ✔ **Azure Machine Learning (for model training and experiments)
+ ✔ **Other Tools: Jupyter Notebook, Google Colab, GitHub Actions (CI/CD)
+
 ---
 Presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/poorna_madhushan_studentambassadors_com/EWXdrpu_n2lJvQFC-DYfdaQBLMXtO1J_zqV7z2KmCPLJxA?e=k0W8SS
+
 
 
 
